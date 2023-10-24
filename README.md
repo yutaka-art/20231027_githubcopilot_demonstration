@@ -81,4 +81,4 @@ Failed to compile Next.js is up to date Conflicting app and page file was found,
 index.jsに適用しましたが、うまくスタイルが当たらないようです。どこに問題がありますか？
 ```
 
-完成版のSrcは[DemosSrc.zip](URL "https://github.com/yutaka-art/20231027_githubcopilot_demonstration/raw/main/DemosSrc.zip")です
+完成版のSrcは[こちら](https://github.com/yutaka-art/20231027_githubcopilot_demonstration/raw/main/DemosSrc.zip)です
