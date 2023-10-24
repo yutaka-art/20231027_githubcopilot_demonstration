@@ -80,3 +80,5 @@ Failed to compile Next.js is up to date Conflicting app and page file was found,
 ```:prompt
 index.jsに適用しましたが、うまくスタイルが当たらないようです。どこに問題がありますか？
 ```
+
+完成版のSrcは[リンクテキスト](URL "DemosSrc.zip")
